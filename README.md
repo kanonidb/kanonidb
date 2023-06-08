@@ -69,7 +69,10 @@
 </ul>
 
 <p dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf31152c35a08da30937767747b39099bfaffae6949d53d741880020acf556ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616d696e2d61726966"><img height="180em" src="https://camo.githubusercontent.com/bf31152c35a08da30937767747b39099bfaffae6949d53d741880020acf556ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616d696e2d61726966" data-canonical-src="https://github-readme-stats.vercel.app/api?username=amin-arif" style="max-width: 100%;"></a> 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf31152c35a08da30937767747b39099bfaffae6949d53d741880020acf556ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616d696e2d61726966">
+<!--   <img height="180em" src="https://camo.githubusercontent.com/bf31152c35a08da30937767747b39099bfaffae6949d53d741880020acf556ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616d696e2d61726966" data-canonical-src="https://github-readme-stats.vercel.app/api?username=amin-arif" style="max-width: 100%;"> -->
+  
+  </a> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/56b033b8a32b50432d16e0284d86a8c2aa9abdfd098175862024b8d5f9c3a9b4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616d696e2d61726966"><img height="180em" src="https://camo.githubusercontent.com/56b033b8a32b50432d16e0284d86a8c2aa9abdfd098175862024b8d5f9c3a9b4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616d696e2d61726966" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-arif" style="max-width: 100%;"></a>
 </p>
 <h4 dir="auto"><a id="user-content-what-companies-have-i-worked-for" class="anchor" aria-hidden="true" href="#what-companies-have-i-worked-for"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>What companies have I worked for?</h4>
@@ -85,7 +88,7 @@
 <p dir="auto">
 
 <a href="https://www.linkedin.com/in/kanonbiswas" rel="nofollow">
-<!--   <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> -->
+  <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> 
 </a> 
 
 <a href="mailto:aminarif.cs@gmail.com">
